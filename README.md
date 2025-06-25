@@ -12,7 +12,7 @@
 </p>
 
 <!-- Gif Ak-Brr -->
-<img src="https://media.tenor.com/b0cPl.gif" alt="Ak-Brr gif" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
+<img src="https://i.makeagif.com/media/3-24-2023/GZeFuv.gif" alt="Ak-Brr gif" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
 
 </div>
 
