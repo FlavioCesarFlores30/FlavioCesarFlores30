@@ -12,7 +12,7 @@
 </p>
 
 <!-- Bocetos estilo Cid Cagueno animados -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Boceto animado sombra" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://tenor.com/es/view/ak-brr-gif-27179633" alt="Boceto animado sombra" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
 
 </div>
 
