@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 style="font-family: 'Orbitron', sans-serif; color: #dd33ff; text-shadow: 0 0 30px #aa00ff, 0 0 60px #ff00ff;">
-  👑 Flavio César — The Eminence in Shadow 👑
+  👑 Flavio César 👑
 </h1>
 
 <p style="font-size: 1.4rem; font-style: italic; color: #f5a1ff; max-width: 600px;">
