@@ -1,63 +1,55 @@
-<!--
-README para Flavio César — El Eminence in Shadow fullstack designer & world traveler
--->
+<!-- README para Flavio César - Eminence in Shadow + Bocetos épicos -->
 
 <div align="center">
 
-<h1 style="font-family: 'Orbitron', sans-serif; color: #c777ff; text-shadow: 0 0 20px #8e44ad, 0 0 40px #6a0dad;">
+<h1 style="font-family: 'Orbitron', sans-serif; color: #dd33ff; text-shadow: 0 0 30px #aa00ff, 0 0 60px #ff00ff;">
   👑 Flavio César — The Eminence in Shadow 👑
 </h1>
 
-<p style="font-size: 1.3rem; font-style: italic; color: #c3a0ff;">
-  Fullstack Developer & Web Designer ⚡ | Explorador del mundo 🌍 | Apasionado por crear en las sombras y brillar con código
+<p style="font-size: 1.4rem; font-style: italic; color: #f5a1ff; max-width: 600px;">
+  Fullstack Developer ⚡ Diseñador Web 🎨 Explorador del Mundo 🌍 <br />
+  Forjando poder desde las sombras con código y creatividad.
 </p>
 
-<img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="Flavio César" width="160" height="160" style="border-radius: 50%; border: 5px solid #b183ff; box-shadow: 0 0 40px #a159ff;" />
+<!-- Bocetos estilo Cid Cagueno animados -->
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Boceto animado sombra" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
 
 </div>
 
 ---
 
-## 💻 Sobre Mí
-
-Soy Flavio César, programador fullstack con alma de artista del diseño web.  
-Me encanta viajar, descubrir culturas y aprender de cada rincón del planeta, al igual que disfruto crear experiencias digitales únicas.  
-Trabajo silenciosamente en las sombras para que mis proyectos brillen con fuerza propia.
-
----
-
-## ⚔️ Mis Poderes Tecnológicos
+## 🌈 Mis Superpoderes Tecnológicos
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="20%" align="right" style="padding-right:10px;">JavaScript</td>
+    <td width="20%" align="right" style="padding-right:10px; font-weight: bold; color:#d66aff;">JavaScript</td>
     <td width="80%">
-      <div style="background:#2e004e; border-radius: 6px; height: 14px; width: 100%;">
-        <div style="width: 95%; background:#b085ff; height: 14px; border-radius: 6px; box-shadow: 0 0 12px #c6a1ff;"></div>
+      <div style="background:#220033; border-radius: 10px; height: 18px; width: 100%;">
+        <div style="width: 96%; background: linear-gradient(90deg, #ff00ff, #ff77ff); height: 18px; border-radius: 10px; box-shadow: 0 0 20px #ff33ff;"></div>
       </div>
     </td>
   </tr>
   <tr>
-    <td align="right" style="padding-right:10px;">React</td>
+    <td align="right" style="padding-right:10px; font-weight: bold; color:#d66aff;">React</td>
     <td>
-      <div style="background:#2e004e; border-radius: 6px; height: 14px; width: 100%;">
-        <div style="width: 90%; background:#a773ff; height: 14px; border-radius: 6px; box-shadow: 0 0 12px #ad87ff;"></div>
+      <div style="background:#220033; border-radius: 10px; height: 18px; width: 100%;">
+        <div style="width: 92%; background: linear-gradient(90deg, #cc33ff, #ff99ff); height: 18px; border-radius: 10px; box-shadow: 0 0 18px #dd44ff;"></div>
       </div>
     </td>
   </tr>
   <tr>
-    <td align="right" style="padding-right:10px;">Node.js</td>
+    <td align="right" style="padding-right:10px; font-weight: bold; color:#d66aff;">Node.js</td>
     <td>
-      <div style="background:#2e004e; border-radius: 6px; height: 14px; width: 100%;">
-        <div style="width: 85%; background:#996dff; height: 14px; border-radius: 6px; box-shadow: 0 0 12px #9e77ff;"></div>
+      <div style="background:#220033; border-radius: 10px; height: 18px; width: 100%;">
+        <div style="width: 89%; background: linear-gradient(90deg, #aa00ff, #ee77ff); height: 18px; border-radius: 10px; box-shadow: 0 0 16px #bb33ff;"></div>
       </div>
     </td>
   </tr>
   <tr>
-    <td align="right" style="padding-right:10px;">CSS / Web Design</td>
+    <td align="right" style="padding-right:10px; font-weight: bold; color:#d66aff;">CSS & Diseño Web</td>
     <td>
-      <div style="background:#2e004e; border-radius: 6px; height: 14px; width: 100%;">
-        <div style="width: 98%; background:#c199ff; height: 14px; border-radius: 6px; box-shadow: 0 0 12px #d1aaff;"></div>
+      <div style="background:#220033; border-radius: 10px; height: 18px; width: 100%;">
+        <div style="width: 99%; background: linear-gradient(90deg, #ff44ff, #ffbbff); height: 18px; border-radius: 10px; box-shadow: 0 0 24px #ff66ff;"></div>
       </div>
     </td>
   </tr>
@@ -65,26 +57,26 @@ Trabajo silenciosamente en las sombras para que mis proyectos brillen con fuerza
 
 ---
 
-## 🚀 Proyectos que Forjé en las Sombras
+## 🔥 Proyectos Legendarios
 
 | Proyecto | Descripción | Link |
-| --- | --- | --- |
-| **ShadowTraveler** | App para planificar viajes con mapas interactivos y recomendaciones ocultas | [GitHub](https://github.com/FlavioCesar/ShadowTraveler) |
-| **NeonPortfolio** | Mi portfolio web con diseño neón y efectos oscuros animados | [GitHub](https://github.com/FlavioCesar/NeonPortfolio) |
-| **SilentAPI** | API ultra rápida y segura para apps modernas | [GitHub](https://github.com/FlavioCesar/SilentAPI) |
+| -------- | ----------- | ---- |
+| **ShadowTraveler** | App para planear viajes y descubrir secretos ocultos 🌌 | [GitHub](https://github.com/FlavioCesar/ShadowTraveler) |
+| **NeonPortfolio** | Mi portfolio con diseño neón y animaciones super llamativas 🎨 | [GitHub](https://github.com/FlavioCesar/NeonPortfolio) |
+| **SilentAPI** | API ultrarrápida y segura para tus apps modernas 🚀 | [GitHub](https://github.com/FlavioCesar/SilentAPI) |
 
 ---
 
-## 📈 Mi Poder en GitHub
+## 📊 Mis Stats en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FlavioCesar&show_icons=true&theme=dark&border_radius=20&title_color=c799ff&icon_color=d1aaff&text_color=d1c6ff&bg_color=140029" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioCesar&layout=compact&theme=dark&border_radius=20&title_color=c799ff&icon_color=d1aaff&text_color=d1c6ff&bg_color=140029" alt="Lenguajes principales" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FlavioCesar&show_icons=true&theme=radical&border_radius=25&title_color=ff44ff&icon_color=ff77ff&text_color=ffbbff&bg_color=220022" alt="Estadísticas GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioCesar&layout=compact&theme=radical&border_radius=25&title_color=ff44ff&icon_color=ff77ff&text_color=ffbbff&bg_color=220022" alt="Lenguajes principales" />
 </div>
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 ¡Conéctate conmigo!
 
 <p align="center">
   <a href="https://linkedin.com/in/FlavioCesar" target="_blank">
@@ -94,12 +86,12 @@ Trabajo silenciosamente en las sombras para que mis proyectos brillen con fuerza
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:flaviocesar@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%23c777ff.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23ff44ff.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <sub>Diseñado con pasión, forjado en las sombras, brillando en el mundo digital. 💜</sub>
+<div align="center" style="color:#ff99ff; font-style: italic;">
+  <sub>Forjado en sombras, iluminado por neón, conquistando el mundo con código y arte. 💜</sub>
 </div>
