@@ -1,4 +1,4 @@
-<!-- README para Flavio César - Eminence in Shadow + Boceto Ak-Brr -->
+<!-- README para Flavio César - Eminence in Shadow + Gif Ak-Brr -->
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 </p>
 
 <!-- Gif Ak-Brr -->
-<img src="https://media1.tenor.com/m/L6jk6hFt2fUAAAAd/ak-brr.gif" alt="Ak-Brr gif" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
+<img src="https://media.tenor.com/b0cPl.gif" alt="Ak-Brr gif" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
 
 </div>
 
