@@ -1,4 +1,4 @@
-<!-- README para Flavio César - Eminence in Shadow + Bocetos épicos -->
+<!-- README para Flavio César - Eminence in Shadow + Boceto Ak-Brr -->
 
 <div align="center">
 
@@ -11,8 +11,8 @@
   Forjando poder desde las sombras con código y creatividad.
 </p>
 
-<!-- Bocetos estilo Cid Cagueno animados -->
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://tenor.com/es/view/ak-brr-gif-27179633" alt="Boceto animado sombra" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
+<!-- Gif Ak-Brr -->
+<img src="https://media1.tenor.com/m/L6jk6hFt2fUAAAAd/ak-brr.gif" alt="Ak-Brr gif" width="300" style="margin-top: 20px; border-radius: 15px; box-shadow: 0 0 40px #ff00ff;" />
 
 </div>
 
